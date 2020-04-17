@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidStorageIO</string>
+    <string name="button_open_text_saving">Save Text File</string>
+    <string name="button_save_image_file">Save Image File</string>
+    <string name="button_save_objects">Save Objects (Serialization)</string>
+    <string name="button_save_file_in_hello_file">Save in hello.txt</string>
+    <string name="button_read_form_hello_file">Read from hello.txt</string>
+    <string name="text_save_location"><![CDATA[This file resides in your internal memory (data -> data -> xyz.devura.androidstorage.io -> files)]]></string>
+    <string name="edit_hint_content">Enter content here</string>
+    <string name="text_person">Person Object</string>
+    <string name="edit_hint_name">Name</string>
+    <string name="edit_hint_age">Age</string>
+    <string name="button_save_object">Save Object</string>
+    <string name="button_read_object">Revive Object</string>
+</resources>
